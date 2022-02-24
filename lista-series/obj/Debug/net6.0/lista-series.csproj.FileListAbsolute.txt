@@ -1,0 +1,5 @@
+C:\Users\Ozael\Projetos\lista-series\lista-series\obj\Debug\net6.0\lista-series.csproj.AssemblyReference.cache
+C:\Users\Ozael\Projetos\lista-series\lista-series\obj\Debug\net6.0\lista-series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozael\Projetos\lista-series\lista-series\obj\Debug\net6.0\lista-series.AssemblyInfoInputs.cache
+C:\Users\Ozael\Projetos\lista-series\lista-series\obj\Debug\net6.0\lista-series.AssemblyInfo.cs
+C:\Users\Ozael\Projetos\lista-series\lista-series\obj\Debug\net6.0\lista-series.csproj.CoreCompileInputs.cache
